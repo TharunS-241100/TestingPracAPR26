@@ -14,6 +14,8 @@ public class RunnerClass extends Base_Class {
 		browserTermination();
 		windowHandling(0);
 		SelectOption(element, "Index", "5");
+		System.out.println("Tharun");
+		System.out.println("Bharath");
 		
 		
 	}
